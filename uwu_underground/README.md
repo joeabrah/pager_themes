@@ -46,10 +46,6 @@ uwu_underground/
 **Find more information at docs.hak5.org**
 
 1. **Create theme directory at /root/themes**
-   ```bash
-   # From your pager shell via SSH or Virtual Pager
-   mkdir /root/themes
-   ```
 
 2. **Transfer uwu_underground theme folder to /root/themes**
    scp or sftp work with the USB-C connection or Management AP by default
