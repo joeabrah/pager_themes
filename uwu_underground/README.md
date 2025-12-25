@@ -2,12 +2,14 @@
 
 Custom theme for WiFi Pineapple Pager (hak5.org)    
     
-*There's still a lot to do, tacking the font colors in each dashboard is next
+*There's still a lot to do, tacking the font colors in each dashboard is next    
+
+*Some AI Slop has been used to help generate this README
 
 ---
 
 
-## 📁 Quick Theme Structure Overview
+## Quick Theme Structure Overview
 
 ```
 uwu_underground/
@@ -39,7 +41,7 @@ uwu_underground/
 
 ---
 
-## 🚀 Installation / Replacing Theme on Pager
+## Installation / Replacing Theme on Pager
 
 **Find more information at docs.hak5.org**
 
@@ -57,7 +59,7 @@ uwu_underground/
 
 
 
-## 📝 Change Log / Modifications
+## Change Log / Modifications
 
 **Files Modified:**   
 *Note: Full size backgrounds should be 480 x 222 pixels
