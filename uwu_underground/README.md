@@ -1,8 +1,11 @@
 # UwU Underground Pager Theme
 
-Custom theme for WiFi Pineapple Pager (hak5.org)
+Custom theme for WiFi Pineapple Pager (hak5.org)    
+    
+*There's still a lot to do, tacking the font colors in each dashboard is next
 
 ---
+
 
 ## 📁 Quick Theme Structure Overview
 
@@ -56,7 +59,7 @@ uwu_underground/
 
 ## 📝 Change Log / Modifications
 
-**Files Modified:**
+**Files Modified:**   
 *Note: Full size backgrounds should be 480 x 222 pixels
 
 - `assets/alerts_dashboard/alerts_bg.png` - Yuma
