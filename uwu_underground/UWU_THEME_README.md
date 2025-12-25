@@ -41,8 +41,8 @@ uwu_underground/
 
 **Key Files:**
 - `theme.json` - Maps all components and defines color palette
-- `components/dashboards/wargames_dashboard.json` - Main dashboard screen
-- `assets/` - All images, icons, and graphics (480x222 for full screens)
+- `components/dashboards/main_dashboard.json` - Main dashboard screen
+- `assets/` - All images, icons, and graphics
 
 ---
 
@@ -65,14 +65,16 @@ uwu_underground/
 **Files Modified:**   
 *Note: Full size backgrounds should be 480 x 222 pixels
 
-- `assets/alerts_dashboard/alerts_bg.png` - Yuma
-![Yuma Alert Dashboard](readme_images/alerts_dashboard.png)
-- `assets/dashboard/wargames_bg.png` - 5 UwU members
-![5 Members of UwU on Main Dashboard](readme_images/dashboard.png)
-- `assets/payloads_dashboard/payloads_bg.png` - Yuma
-![Yuma Payload Dashboard](readme_images/payload_dashboard.png)
-- `assets/payloads_dashboard/recon_payloads_bg.png` - Yin
-- `assets/blank_recon_bg.png` - Full UwU Team
-- `assets/launch_payload_dialog/launch_payload_bg.png` - Yuki
-- `assets/settings_bg.png` - Yulia
-![Yulia Settings Dashboard](readme_images/settings_dashboard.png)
+- `assets/alerts_dashboard/alerts_bg.png` - Yuma (Art provided by @_winter_wonders)    
+<img src="readme_images/alerts_dashboard.png" width="480" height="222" title="Art provided by @_winter_wonders">    
+- `assets/dashboard/main_dashboard.png` - 5 UwU members    
+<img src="readme_images/dashboard.png" width="480" height="222">    
+- `assets/payloads_dashboard/payloads_bg.png` - Yuma (Art provided by @_winter_wonders)    
+<img src="readme_images/payload_dashboard.png" width="480" height="222" title="Art provided by @_winter_wonders">    
+- `assets/payloads_dashboard/recon_payloads_bg.png` - Yin    
+- `assets/blank_recon_bg.png` - Full UwU Team    
+<img src="readme_images/blank_recon_bg.png" width="480" height="222">  
+- `assets/launch_payload_dialog/launch_payload_bg.png` - Yuki    
+<img src="readme_images/launch_payload_bg.png" width="480" height="222"> 
+- `assets/settings_bg.png` - Yulia (Art provided by @_winter_wonders)    
+<img src="readme_images/settings_dashboard.png" width="480" height="222" title="Art provided by @_winter_wonders">    

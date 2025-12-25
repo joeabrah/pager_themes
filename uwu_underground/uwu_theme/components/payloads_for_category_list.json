@@ -30,8 +30,8 @@
               { "image_path": "assets/payloadlog/scroll_up_indicator.png", "x": 37, "y": 70, "recolor_palette": "medium_gray" }
             ],
             "selected_layers": [
-              { "variable_name": "$_LIST_ITEM", "x": 5, "y": 76, "use_template": "payload_name_selected" },
-              { "image_path": "assets/flame.png", "x": 5, "y": 78, "recolor_palette": "magenta" },
+              { "variable_name": "$_LIST_ITEM", "x": 84, "y": 76, "use_template": "payload_name_selected" },
+              { "image_path": "assets/flame.png", "x": 64, "y": 78, "recolor_palette": "magenta" },
               { "image_path": "assets/payloadlog/scroll_up_indicator.png", "x": 37, "y": 70, "recolor_palette": "medium_gray" }
             ],
             "target": "launch_payload_dialog",
