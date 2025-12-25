@@ -6,8 +6,8 @@ Custom theme for WiFi Pineapple Pager (hak5.org)
 -Give proper credit for art (@winter_wonders and @uwu_underground)    
 -Convert song melodies to ringtones?    
 -Fix font alignment and colors    
--Change icons and other images
--Change Recon and pop backgrounds
+-Change icons and other images    
+-Change Recon and pop backgrounds    
 
 *Some AI Slop has been used to help generate this README
 
