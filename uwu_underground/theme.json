@@ -18,7 +18,7 @@
     "evilwpa_wizard": "components/pineap/evilwpa_wizard.json",
     "power_menu": "components/dashboards/power_menu.json",
     "regulatory": "components/settings/regulatory.json",
-    "dashboard_path": "components/dashboards/uwu_yuma_dashboard.json",
+    "dashboard_path": "components/dashboards/main_dashboard.json",
     "alerts_dashboard": "components/dashboards/dashboard_alerts.json",
 
     "pineap_pineap_submenu": "components/pineap/submenu_pineap_pineap.json",
