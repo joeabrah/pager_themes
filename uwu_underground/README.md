@@ -63,13 +63,13 @@ uwu_underground/
 *Note: Full size backgrounds should be 480 x 222 pixels
 
 - `assets/alerts_dashboard/alerts_bg.png` - Yuma
-![alt text](readme_images/alerts_dashboard.png)
+readme_images/alerts_dashboard.png
 - `assets/dashboard/wargames_bg.png` - 5 UwU members
-![alt text](readme_images/dashboard.png.png)
+readme_images/dashboard.png
 - `assets/payloads_dashboard/payloads_bg.png` - Yuma
-![alt text](readme_images/payload_dashboard.png)
+readme_images/payload_dashboard.png
 - `assets/payloads_dashboard/recon_payloads_bg.png` - Yin
 - `assets/blank_recon_bg.png` - Full UwU Team
 - `assets/launch_payload_dialog/launch_payload_bg.png` - Yuki
 - `assets/settings_bg.png` - Yulia
-![alt text](readme_images/settings_dashboard.png)
+readme_images/settings_dashboard.png
