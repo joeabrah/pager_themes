@@ -2,7 +2,12 @@
 
 Custom theme for WiFi Pineapple Pager (hak5.org)    
     
-*There's still a lot to do, tacking the font colors in each dashboard is next    
+*There's still a lot to do, tackling the font colors in each dashboard is next:    
+-Give proper credit for art (@winter_wonders and @uwu_underground)    
+-Convert song melodies to ringtones?    
+-Fix font alignment and colors    
+-Change icons and other images
+-Change Recon and pop backgrounds
 
 *Some AI Slop has been used to help generate this README
 
