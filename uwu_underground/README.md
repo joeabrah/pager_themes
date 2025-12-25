@@ -57,6 +57,8 @@ uwu_underground/
 ## 📝 Change Log / Modifications
 
 **Files Modified:**
+*Note: Full size backgrounds should be 480 x 222 pixels
+
 - `assets/alerts_dashboard/alerts_bg.png` - Yuma
 - `assets/dashboard/wargames_bg.png` - 5 UwU members
 - `assets/payloads_dashboard/payloads_bg.png` - Yuma
