@@ -2,12 +2,13 @@
 
 Custom theme for WiFi Pineapple Pager ([Hak5 Repo](https://github.com/hak5/wifipineapplepager-themes))    
     
-*There's still a lot to do, tackling the font colors in each dashboard is next:    
+*There's still a lot to do, tackling the font colors in each dashboard is next:   
+      
 -Give proper credit for art (@_winter_wonders and @uwu_underground)    
 -Convert song melodies to ringtones?    
--Fix font alignment and colors    
 -Change icons and other images    
 -Change Recon and pop backgrounds    
+-Change Payload Dashboard status bar battery icon
 
 *Some AI Slop has been used to help generate this README
 
@@ -47,15 +48,13 @@ uwu_underground/
 - `assets/alerts_dashboard/alerts_bg.png` - Yuma (Art provided by @_winter_wonders)    
 <img src="readme_images/alerts_dashboard.png" width="480" height="222" title="Art provided by @_winter_wonders"><br>
 <br>
-- `assets/dashboard/main_dashboard.png` - 5 UwU members    
-<img src="readme_images/dashboard.png" width="480" height="222">    
+- `assets/dashboard/main_dashboard.png` - UwU group     
+<img src="readme_images/main_dashboard.png" width="480" height="222">    
 <br>
 - `assets/payloads_dashboard/payloads_bg.png` - Yuma (Art provided by @_winter_wonders)    
 <img src="readme_images/payload_dashboard.png" width="480" height="222" title="Art provided by @_winter_wonders">    
 <br>
-- `assets/payloads_dashboard/recon_payloads_bg.png` - Yin  
-<br>  
-- `assets/blank_recon_bg.png` - Full UwU Team    
+- `assets/blank_recon_bg.png` - Yin with GPU (This is for both the AP and Client recon payload dashboards)    
 <img src="readme_images/blank_recon_bg.png" width="480" height="222">  
 <br>
 - `assets/launch_payload_dialog/launch_payload_bg.png` - Yuki 
@@ -71,17 +70,24 @@ uwu_underground/
 ```
 Menu Items: blue
 Sub-menu Items: light_yellow
-Selected Item: orange
+Menu Selected Item: orange
 ```
-- `components/dashboards/dashboard_payloads.json` - Updated font colors to the following:    
+- `components/dashboards/dashboard_payloads.json` - Updated font colors and status bar to the following:    
 ```
-Menu Items: dark_red
-Menu Folder Icon: orange
-Selected Item: yellow
+Menu Items: black
+Menu Folder Icon: black
+Selected Item: dark_red
+Status Bar: payloads (status_bar_payloads.json)
 ```
 - `components/dashboards/dashboard_pineap.json` - Updated font colors to the following:    
 ```
 Menu Items: blue
 Sub-menu Items: light_green
 Selected Item: yellow
+```
+
+- `theme.json` - Added the following components:    
+```
+# New status bar for payload dashboard
+"payloads": "components/status_bars/status_bar_payloads.json"
 ```
