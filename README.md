@@ -8,7 +8,7 @@ Official Hak5 Pager Theme Documentation: https://github.com/hak5/wifipineapplepa
 
 1. **Create theme directory at /root/themes**
 
-2. **Transfer uwu_underground theme folder to /root/themes**
+2. **Transfer uwu_theme theme folder to /root/themes**
    scp or sftp work with the USB-C connection or Management AP by default
 
 3. **Verify theme is recognized:**
