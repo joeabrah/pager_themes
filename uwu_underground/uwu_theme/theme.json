@@ -7,7 +7,8 @@
     "network": "components/status_bars/status_bar_network.json",
     "recon": "components/status_bars/status_bar_recon.json",
     "min": "components/status_bars/status_bar_min.json",
-    "gps" : "components/status_bars/status_bar_gps.json"
+    "gps" : "components/status_bars/status_bar_gps.json",
+    "payloads": "components/status_bars/status_bar_payloads.json"
   },
 
   "generic_menus": {
